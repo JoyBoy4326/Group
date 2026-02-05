@@ -6,5 +6,9 @@
 
 # \- Student C: xxx
 
+\## Project Overview
+
+This project explores ideas for our group project.
+
 
 
